@@ -1,0 +1,1 @@
+To be able to use this code, its mandatory to use the two files "TurnSensor.cpp" and "TurnSensor.h", in the same arduino program, just open a new tab in the code and paste the two files in there. Its also requires to use the zumo libary and the L3G.h libary by pololu.
