@@ -6,6 +6,6 @@ The Pixy2 folder, contains the folder for the Arduino Uno, which translated the 
 
 The Position calculator folder, contains the code for finding new coordinates for the Zumo.
 
-By Group 175//
+By Group 175\\
 Aalborg University //
 Fall semester 2022//
